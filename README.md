@@ -8,7 +8,7 @@
 # 💫 About Me :
 
 - 😄 Pronouns: He/His
-- 🔭 I’m currently building [Digital-Agropod](https://ashalupreti.github.io/digital-agropods/).
+- 🔭 I’m currently building [Digital-Agropod]( https://ashalupreti.github.io/digital-agropods/).
 - 🌱 I’m currently learning more about BlockChain.
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCwPMAuCWF9-DpkvxEj5EgWA/about).
 - 🤔 I’m looking for help with flutter collaboration.
