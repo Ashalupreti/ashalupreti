@@ -41,14 +41,13 @@
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashalupreti&show_icons=true&theme=vue" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashalupreti&theme=vue" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashalupreti&show_icons=true&locale=en&layout=compact" alt="ashalupreti" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashalupreti&show_icons=true&locale=en&layout=compact" alt="ashalupreti" /> </br>
 </p>
 
 ### ✍️Random Dev Quote
 
-<p align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
-</p>
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=ashalupreti&icon=0&color=1)](https://visitcount.itsvg.in)
