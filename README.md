@@ -10,7 +10,7 @@
 - 😄 Pronouns: He/His
 - 🔭 I’m currently building [Digital-Agropod](https://ashalupreti.github.io/digital-agropods/).
 - 🌱 I’m currently learning more about BlockChain.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/Ashal upreti/).
+- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCwPMAuCWF9-DpkvxEj5EgWA/about).
 - 🤔 I’m looking for help with flutter collaboration.
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
@@ -18,7 +18,7 @@
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__soondy__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashalupreti) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/ashalupreti) [![Twitter](https://img.shields.io/twitter/follow/ashal_upreti7?logo=Twitter&style=for-the-badge)](https://twitter.com/ashal_upreti7)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__soondy__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashalupreti) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/ashalupreti) [![Twitter](https://img.shields.io/twitter/follow/ashal_upreti7?logo=Twitter&style=for-the-badge)](https://twitter.com/ashal_upreti7)
 
 ## 💻 Tech Stack
 
