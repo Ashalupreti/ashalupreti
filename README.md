@@ -1,5 +1,5 @@
 ![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
-<h1 align="center">Hi 👋, I'm Sandeep Mainali</h1>
+<h1 align="center">Hi 👋, I'm Ashal Upreti</h1>
 <h3 align="center">A passionate frontend and backend developer from Nepal</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
