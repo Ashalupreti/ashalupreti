@@ -30,6 +30,8 @@
 
 ## 📈 Activity Graph
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepmainali&show_icons=true&locale=en&layout=compact" alt="sandeepmainali" /></p>
+
 <p align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=ashalupreti&theme=minimal"/>
 </p>
