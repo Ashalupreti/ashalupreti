@@ -36,13 +36,13 @@
 
 ## 💳 Github Profile Summary Card
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashalupreti&theme=vue"/>
 </p>
 
 ## 📟 GitHub Stats
 
-<p align="center">
+<p align="left">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashalupreti&show_icons=true&theme=vue" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashalupreti&theme=vue" />
   	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashalupreti&show_icons=true&locale=en&layout=compact" alt="ashalupreti" />
