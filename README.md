@@ -4,6 +4,9 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Ashal Upreti</h1>
+<h3 align="center">A passionate frontend and backend developer from Nepal</h3>
+
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashalupreti&label=Views&color=blue&style=plastic&style=for-the-badge" alt="ashal" /> </p>
 
