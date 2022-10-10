@@ -30,8 +30,6 @@
 
 ## 📈 Activity Graph
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepmainali&show_icons=true&locale=en&layout=compact" alt="sandeepmainali" /></p>
-
 <p align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=ashalupreti&theme=minimal"/>
 </p>
@@ -44,11 +42,8 @@
 
 ## 📟 GitHub Stats
 
-<p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashalupreti&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashalupreti&theme=vue" />
-  	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashalupreti&show_icons=true&locale=en&layout=compact" alt="ashalupreti" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepmainali&show_icons=true&locale=en&layout=compact" alt="sandeepmainali" /></p>
+
 
 ### ✍️Random Dev Quote
 
