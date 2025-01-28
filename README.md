@@ -18,7 +18,7 @@
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
-## 🌐 Socials
+## 🌐 Connect with me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__soondy__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashal-upreti-033a0a218/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCwPMAuCWF9-DpkvxEj5EgWA/about) [![Twitter](https://img.shields.io/twitter/follow/ashal_upreti7?logo=Twitter&style=for-the-badge)](https://twitter.com/ashal_upreti7)
 
