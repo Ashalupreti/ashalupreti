@@ -64,12 +64,10 @@
 </p>
 
 ## 📟 GitHub Stats
+	<p><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashalupreti&show_icons=true&locale=en&layout=compact" alt="ashalupreti" /></p>
+	<p><img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=ashalupreti&show_icons=true&theme=vue" /></p>
+	<p><img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashalupreti&theme=vue" /></p>
 
-<p align="left">
-	<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashalupreti&show_icons=true&locale=en&layout=compact" alt="ashalupreti" />
-	<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=ashalupreti&show_icons=true&theme=vue" />
-	<img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashalupreti&theme=vue" />
-</p>
 
 ### ✍️Random Dev Quote
 
